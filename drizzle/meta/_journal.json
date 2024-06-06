@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1716829059437,
+      "tag": "0000_narrow_ogun",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1717169143683,
+      "tag": "0001_nostalgic_whiplash",
+      "breakpoints": true
+    }
+  ]
+}
